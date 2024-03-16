@@ -1,0 +1,11 @@
+server:
+  port: 8084
+
+user-api:
+  base-url: "http://localhost:8080"
+
+product-api:
+  base-url: "http://localhost:8081"
+
+shopping-api:
+  base-url: "http://localhost:8082"

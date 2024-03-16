@@ -1,0 +1,8 @@
+com\microservices\shoppingclient\model\Category.class
+com\microservices\shoppingclient\model\Product.class
+com\microservices\shoppingclient\model\UserUpdate.class
+com\microservices\shoppingclient\model\Shop.class
+com\microservices\shoppingclient\model\ShopReport.class
+com\microservices\shoppingclient\model\User.class
+com\microservices\shoppingclient\model\Item.class
+com\microservices\shoppingclient\model\ProductBody.class
